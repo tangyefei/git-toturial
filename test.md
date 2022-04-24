@@ -1,3 +1,3 @@
 test
 
-main: c6,c7
+main: c6,c7,c8
